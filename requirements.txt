@@ -1,0 +1,12 @@
+# Replace with the exact versions of your final Colab run before publishing:
+#   pip freeze | grep -E "^(numpy|scipy|pandas|scikit-learn|imbalanced-learn|mne|tensorflow|keras|matplotlib|psutil)=="
+numpy
+scipy
+pandas
+scikit-learn
+imbalanced-learn
+mne
+tensorflow>=2.16
+keras>=3
+matplotlib
+psutil

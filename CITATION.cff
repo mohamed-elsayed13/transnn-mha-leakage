@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below and Sultan et al. (2025), whose pipeline it re-implements."
+title: "TransNN-MHA reproduction code"
+version: 1.0.0
+date-released: 2026-11-30
+license: MIT
+authors:
+  - family-names: Elsayed
+    given-names: Mohamed
+    affiliation: "Arab Academy for Science, Technology and Maritime Transport (AASTMT)"
+  - family-names: Mustafa
+    given-names: Salma
+    affiliation: "Nile University"
+  - family-names: Mohsen
+    given-names: Saeed
+    affiliation: "Zewail City of Science and Technology"
+preferred-citation:
+  type: conference-paper
+  title: "Oversampling Before Cross-Validation Inflates EEG Motor-Intent Decoding: A Reproduction of TransNN-MHA"
+  authors:
+    - family-names: Elsayed
+      given-names: Mohamed
+    - family-names: Mustafa
+      given-names: Salma
+    - family-names: Mohsen
+      given-names: Saeed
+  collection-title: "IEEE-ICCA 2026"   # replace with the conference's full name as it appears in the proceedings
+  year: 2026
+references:
+  - type: article
+    title: "TransNN-MHA: A transformer-based model to distinguish real and imaginary motor intent for assistive robotics"
+    authors:   # complete the author list as published
+      - family-names: Sultan
+        given-names: Tipu
+      - family-names: Babaiasl
+        given-names: Madi
+    journal: "IEEE Access"
+    volume: 13
+    year: 2025
+    doi: "10.1109/ACCESS.2025.3567908"
