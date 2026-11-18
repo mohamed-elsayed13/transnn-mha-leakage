@@ -29,12 +29,18 @@ preferred-citation:
 references:
   - type: article
     title: "TransNN-MHA: A transformer-based model to distinguish real and imaginary motor intent for assistive robotics"
-    authors:   # complete the author list as published
+    authors:
       - family-names: Sultan
         given-names: Tipu
+      - family-names: Liu
+        given-names: Guangping
+      - family-names: Sikorski
+        given-names: Pascal
       - family-names: Babaiasl
         given-names: Madi
     journal: "IEEE Access"
     volume: 13
+    start: 83650
+    end: 83673
     year: 2025
     doi: "10.1109/ACCESS.2025.3567908"

@@ -1,12 +1,11 @@
-# Replace with the exact versions of your final Colab run before publishing:
-#   pip freeze | grep -E "^(numpy|scipy|pandas|scikit-learn|imbalanced-learn|mne|tensorflow|keras|matplotlib|psutil)=="
-numpy
-scipy
-pandas
-scikit-learn
-imbalanced-learn
-mne
-tensorflow>=2.16
-keras>=3
-matplotlib
+# Exact versions of the Google Colab run that produced the paper's results (17–18 November 2026, Python 3.13, T4 GPU).
+numpy==2.4.6
+scipy==1.16.3
+pandas==2.2.3
+scikit-learn==1.6.1
+imbalanced-learn==0.14.2
+mne==1.13.2
+tensorflow==2.21.0
+keras==3.13.2
+matplotlib==3.10.0
 psutil
