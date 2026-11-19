@@ -73,9 +73,14 @@ loses nothing.
 ## Relation to the authors' code
 
 The TransNN-MHA pipeline (feature extraction, SMOTE, feature selection, model and training settings) is re-implemented
-here from the authors' public repository, https://github.com/madibabaiasl/EEGIntentPaper, which is licensed for
-non-commercial use with citation. No file of that repository is included here. Please cite their paper when you use
-this code.
+here from the authors' repository, https://github.com/madibabaiasl/EEGIntentPaper (commit `bd5a046`), which was
+licensed for non-commercial use with citation. No file of that repository is included here. Please cite their paper
+when you use this code.
+
+The repository was public when we froze it on 9 November 2026 and is no longer publicly available. We archived that
+commit (snapshot, full git history and SHA-256 checksums) before any experiment; the archive is available on request
+for verification. The key fact does not depend on the code: the paper reports 4,087 training and 818 test samples,
+which sum to the 4,905 samples after oversampling, while the dataset contains 1,526 recordings.
 
 ## Citation
 
