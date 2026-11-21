@@ -1,5 +1,7 @@
 # Oversampling before cross-validation inflates EEG motor-intent decoding: a reproduction of TransNN-MHA
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24418080.svg)](https://doi.org/10.5281/zenodo.24418080)
+
 Code for the paper
 
 > M. Elsayed, S. Mustafa and S. Mohsen, "Oversampling Before Cross-Validation Inflates EEG Motor-Intent Decoding:
